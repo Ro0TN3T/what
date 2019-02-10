@@ -1,0 +1,97 @@
+CARA MEMASANG PACKAGE 
+
+Download Temux di Play Store.
+Jalankan Printah di bawah ini
+
+command:
+
+$ apt update && apt upgrade
+
+$ apt install python2 -y
+
+$ pip2 install urllib3 chardet certifi idna requests -y
+
+$ apt install openssl curl -y
+
+$ pkg install libcurl -y
+
+$apt install php -y
+
+$ ln -s /sdcard
+
+$ apt install python2-dev -y
+
+$ apt install wget -y 
+
+$ pip2 install mechanize -y
+
+$ pip install beautifulsoup4 -y
+
+$ apt install figlet -y
+
+$ apt install gcc -y
+
+$ apt install Build-essential -y
+
+$ apt install perl -y
+
+$ apt install git -y
+
+$ apt install python -y
+
+$ apt install python3-pip -y
+
+$ apt install libany-uri-escape-perl -y
+
+$ apt install libhtml-html5- entities-perl -y
+
+$ apt install libhtml-entities-numbered-perl -y
+
+$ apt install libhtml-parser-perl -y
+
+$ apt install libwww-perl -y
+
+$ apt install Python3-requests -y
+
+$ apt install Python-requests -y
+
+$ apt upgrade -y
+
+######################
+# Jalankan Script.   #
+######################
+
+$ cd what
+
+$ bash wa.sh
+
+#########
+#Selesai#
+#########
+
+###########################################
+Youtube:
+
+https://youtube.com/c/riskychannelcom
+
+Website:
+
+https://www.blacksosial.web.id
+https://www.mintak.web.id
+
+Facebook:
+
+https://www.facebook.com/acehcyberteam.net
+
+Instagram:
+
+https://www.instgram.com/acehcyberteam
+
+
+###########################################
+
+USAHA DAN DO'A AKAN MENGUBAH SEGALANYA.
+
+HORMAT KAMI
+
+ACT & IFC
